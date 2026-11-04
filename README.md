@@ -60,4 +60,4 @@ Amish Chaturvedi
 
 ## License
 
-MIT (add a `LICENSE` file to the repository).
+MIT. See [LICENSE](LICENSE).
